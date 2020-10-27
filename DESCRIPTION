@@ -1,6 +1,6 @@
 Package: DropletTestFiles
 Title: Test Files for Single-Cell Droplet Utilities
-Version: 1.0.0
+Version: 1.1.0
 Date: 2020-09-11
 Authors@R: 
     person("Aaron", "Lun", role=c("ctb", "cre"), email="infinite.monkeys.with.keyboards@gmail.com")
